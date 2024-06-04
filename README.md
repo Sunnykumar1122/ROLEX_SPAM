@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/PyXen"><img src="https://graph.org/file/bbae2c50b58056ecc4df7.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op SPAMXD. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op ALPHA SPAM BOT. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
