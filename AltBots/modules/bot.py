@@ -24,7 +24,7 @@ async def ping(e):
         altron = await e.reply(f"•[ 🍹 ROLEX TYM 🍹 ]•")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await altron.edit(f"[🍹] ROLEX ᴘαᴘα ɪѕ нєʀє\n[🏓] αвє αв тєʀα куα нσgα\n[⚡] кιѕкι ᴄнυ∂αι кαʀиι нαι\n\n➜ `{mp} ms`")
+        await altron.edit(f"[🍹] Rolex ᴘαᴘα ɪѕ нєʀє\n[🏓] αвє αв тєʀα куα нσgα\n[⚡] кιѕкι ᴄнυ∂αι кαʀиι нαι\n\n➜ `{mp} ms`")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
